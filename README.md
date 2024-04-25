@@ -11,4 +11,5 @@
   <li>Navegação entre diferentes páginas.</li>
 </ul>
 <h2>Preview do Site:</h2>
+<a href="https://paulooosf.github.io/index.html">Deploy</a>
 <img src="https://cdn.discordapp.com/attachments/886489485599182909/1233147534382203001/image.png?ex=662c09a2&is=662ab822&hm=f5c8b25c431133139d62044f5dab347a9b9df8901e4ff61a39d291c1c8b16576&">
